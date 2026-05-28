@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hey, I'm Akshat! 👋
 
-<!--
-**Akshat0913/Akshat0913** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 21-year-old **Junior Backend Developer** based in Germany, passionate about building robust, problem-solving backend systems. I recently wrapped up my Undergraduate Computer Science journey and am currently **actively looking for full-time opportunities** where I can contribute to scalable software engineering.
 
-Here are some ideas to get you started:
+[Website]([https://your-website.com](https://lovethriftsco009.netlify.app/)) • [LinkedIn](www.linkedin.com/in/akshat-patil-09av) • [Email Me](mailto:patilakshat13@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+
+* 🎯 **Current Focus:** Seeking a full-time role in Backend/Software Engineering. 
+* ☕ **Drive:** An early riser, constantly learning, and driven by building practical, scalable systems.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+* **Languages & Querying:** Java, JavaScript, HTML/CSS, C, C++
+* **Frameworks & Backend:** Spring Boot
+* **Databases:** MySQL, MongoDB
+* **Tools & Platforms:** Git, GitHub, JDBC, Hibernate, Postman, Firebase, Netlify
+
+---
+
+### 🕹️ Featured Project
+
+#### **Flappy Bird Desktop Application** *(Academic Project)*
+A Java-based desktop game that blends interactive gameplay with structured software architecture and persistent database management.
+
+* **Architecture:** Implemented a modular, three-tier architecture utilizing **Java Swing, AWT, and JDBC**.
+* **Database Integration:** Engineered real-time score tracking and persistent leaderboard management backed by **MySQL**.
+* **Key Specs:** Event-driven keyboard input handling, precise collision detection, and full UML-based system design documentation.
+* **Core Learnings:** Deepened my expertise in OOP principles, database connectivity, and structured software engineering.
+
+---
+
+### ✨ Fun Facts
+
+* ⚔️ **One Piece** is my absolute favourite anime.
+* 🚀 As a kid, I fully intended to become a gamer (now I explore codebase universes).
+
+---
+
+### 📫 Let's Connect!
+
+* **For professional opportunities:** Reach out via email at **patilakshat13@gmail.com** or connect with me on **[LinkedIn](www.linkedin.com/in/akshat-patil-09av)**.
