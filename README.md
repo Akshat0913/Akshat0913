@@ -2,7 +2,7 @@
 
 I'm a 21-year-old **Junior Backend Developer** based in India, passionate about building robust, problem-solving backend systems. I recently wrapped up my Undergraduate Computer Science journey and am currently **actively looking for full-time opportunities** where I can contribute to scalable software engineering.
 
-[Website]([[[(https://lovethriftsco009.netlify.app/)](https://lovethriftsco009.netlify.app/)] • [LinkedIn](www.linkedin.com/in/akshat-patil-09av) • [Email Me](mailto:patilakshat13@gmail.com)
+[Website](https://lovethriftsco009.netlify.app/) • [LinkedIn](www.linkedin.com/in/akshat-patil-09av) • [Email Me](mailto:patilakshat13@gmail.com)
 
 ---
 
